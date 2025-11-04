@@ -93,6 +93,8 @@ df = pd.read_csv("emp.csv")
 
 print(df.loc[7]g)
 
+print(1+2)
+
 
 
 
